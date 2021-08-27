@@ -1,17 +1,17 @@
 /**
+ * 
  * Author: Jace Pethoud
- *         jpethoud3@huskers.unl.edu
+ * Email: jpethoud3@huskers.unl.edu
  * Date: 2021/08/24
  *
- * A simple hello world program in C
- *
  */
-#include <stdlib.h>
-#include <stdio.h>
+  #include <stdlib.h>
+  #include <stdio.h>
 
-int main(int argc, char **argv) {
+  int main(int argc, char **argv) {
 
-  printf("Jace Pethoud\n");
-
+  printf("Jace Pethoud!\n");
+  printf("My major is Computer Science!\n");
+  
   return 0;
 }
